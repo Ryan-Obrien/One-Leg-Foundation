@@ -19,8 +19,8 @@ The one leg foundation is here for you with special needs
 live: false # enter 'true' when you're ready for the site to be indexed by Google and other web crawlers
 
 # Jekyll settings
-baseurl: /foundation-website-template # Leave this blank unless your site is located on a subpath, e.g. /blog
-url: https://smartergiving.org # Typically http://www.yourdomain.org
+baseurl: /one-leg-foundation # Leave this blank unless your site is located on a subpath, e.g. /blog
+url: https://onelegfoundation.org # Typically http://www.yourdomain.org
 collections:
   featured-cards:
     output: true
